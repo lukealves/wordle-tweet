@@ -36,3 +36,7 @@ You can modify the code to analyze different aspects of the data or create new v
 # Conclusion
 
 This project provides an introduction to data analysis using Python and various libraries. By analyzing tweet data from the daily word game Wordle, we have demonstrated various techniques for data wrangling and visualization. These techniques can be applied to other datasets to gain insights and inform decision-making.
+
+# OBS
+
+*The CSV file was too large, so it was uploaded as a zip file.*
